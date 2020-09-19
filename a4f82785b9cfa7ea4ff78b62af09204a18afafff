@@ -1,0 +1,1 @@
+{"jobID":"8002b432-a775-a7c7-3ecd-cf58710579a1","spec":{"type":"policy","cause":{"Message":"","User":"mahmood ali \u003csdmahmood.ali@gmail.com\u003e"},"spec":{"cloudengineer:deployment/apache":{"add":{"automated":"true"},"remove":{}}}},"result":null}
